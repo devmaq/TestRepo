@@ -3,15 +3,15 @@ TestRepo
 
 Just a test
 
-```c++
+    ```c++
 
-class Blah {
-  public:
-    Blah();
-    
-    void sayHello();
+    class Blah {
+      public:
+        Blah();
+        
+        void sayHello();
 
-  private:
-    in mMyInt;
-};
-```
+      private:
+        in mMyInt;
+    };
+    ```
