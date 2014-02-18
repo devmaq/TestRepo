@@ -1,0 +1,3 @@
+[submodule "blocks/TestSub"]
+	path = blocks/TestSub
+	url = https://github.com/devmaq/TestSubRepo.git
